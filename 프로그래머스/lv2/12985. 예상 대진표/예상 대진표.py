@@ -11,5 +11,3 @@ def solution(n,a,b):
     #4   => 4
 
     return answer
-
-    return answer
